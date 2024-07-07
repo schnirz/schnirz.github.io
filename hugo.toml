@@ -1,5 +1,5 @@
 baseurl = "http://schnirz.github.io"
-title = "johndoe"
+title = "schnirz"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -14,11 +14,11 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
-  author = "Martin Keller"
-  info = "Full Stack DevOps and Magician"
-  description = "Martin's personal website"
+  author = "schnirz"
+  info = "Full Stack Data Person"
+  description = "A personal website dedicated to irrelevant ramblings"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  # avatarurl = "images/avatar.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
@@ -43,21 +43,21 @@ style = "github-dark"
   author = "authors"
 
 # Social links
-[[params.social]]
-  name = "Github"
-  icon = "fa-brands fa-github fa-2x"
-  weight = 1
-  url = "https://github.com/johndoe/"
-[[params.social]]
-  name = "Gitlab"
-  icon = "fa-brands fa-gitlab fa-2x"
-  weight = 2
-  url = "https://gitlab.com/johndoe/"
-[[params.social]]
-  name = "Twitter"
-  icon = "fa-brands fa-x-twitter fa-2x"
-  weight = 3
-  url = "https://twitter.com/johndoe/"
+# [[params.social]]
+#   name = "Github"
+#   icon = "fa-brands fa-github fa-2x"
+#   weight = 1
+#   url = "https://github.com/johndoe/"
+# [[params.social]]
+#   name = "Gitlab"
+#   icon = "fa-brands fa-gitlab fa-2x"
+#   weight = 2
+#   url = "https://gitlab.com/johndoe/"
+# [[params.social]]
+#   name = "Twitter"
+#   icon = "fa-brands fa-x-twitter fa-2x"
+#   weight = 3
+#   url = "https://twitter.com/johndoe/"
 
 # Menu links
 [[menu.main]]
