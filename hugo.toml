@@ -15,7 +15,7 @@ style = "github-dark"
 
 [params]
   author = "schnirz"
-  info = "Full Stack Data Person"
+  info = "full stack data person. math is fun as well."
   description = "A personal website dedicated to irrelevant ramblings"
   keywords = "blog,developer,personal"
   # avatarurl = "images/avatar.jpg"
@@ -25,7 +25,7 @@ style = "github-dark"
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
 
-  since = 2019
+  since = 2024
 
   enableTwemoji = true
 
